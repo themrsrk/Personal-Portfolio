@@ -45,6 +45,7 @@ import django from '../assets/svg/skills/django.svg'
 import firebase from '../assets/svg/skills/firebase.svg'
 import gimp from '../assets/svg/skills/gimp.svg'
 import git from '../assets/svg/skills/git.svg'
+import grafana from '../assets/svg/skills/grafana.png'
 import graphql from '../assets/svg/skills/graphql.svg'
 import lightroom from '../assets/svg/skills/lightroom.svg'
 import materialui from '../assets/svg/skills/materialui.svg'
@@ -58,7 +59,11 @@ import strapi from '../assets/svg/skills/strapi.svg'
 import tensorflow from '../assets/svg/skills/tensorflow.svg'
 import webix from '../assets/svg/skills/webix.svg'
 import wordpress from '../assets/svg/skills/wordpress.svg'
-
+import ubuntu from '../assets/svg/skills/ubuntu.png'
+import kali from '../assets/svg/skills/kali.png'
+import centos from '../assets/svg/skills/centos.png'
+import digital from '../assets/svg/skills/digital.png'
+import apache from '../assets/svg/skills/apache.png'
 import azure from '../assets/svg/skills/azure.svg'
 import blender from '../assets/svg/skills/blender.svg'
 import fastify from '../assets/svg/skills/fastify.svg'
@@ -81,6 +86,18 @@ export const skillsImage = (skill) => {
     switch (skillID) {
         case 'gcp':
             return gcp;
+        case 'digital':
+            return digital;
+        case 'kali':
+            return kali;
+        case 'ubuntu':
+            return ubuntu;
+        case 'centos':
+            return centos;
+        case 'apache':
+            return apache;
+        case 'grafana':
+            return grafana;
         case 'html':
             return html;
         case 'photoshop':
