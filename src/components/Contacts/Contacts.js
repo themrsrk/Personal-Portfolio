@@ -137,7 +137,7 @@ function Contacts() {
 
 
 
-                emailjs.sendForm('service_2locgar', 'template_2wdp9lq', e.target.value, 'user_Edh8xNnQdD8AZVCDQGvut')
+                emailjs.sendForm('service_2locgar', 'template_2wdp9lq', e.target, 'user_Edh8xNnQdD8AZVCDQGvut')
                     .then((result) => {
                         console.log(result.text);
                         setSuccess(true);
