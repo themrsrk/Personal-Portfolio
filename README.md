@@ -1,4 +1,4 @@
-# Personal Portfolio 
+# Developer Portfolio 
 <p align="center">
 <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/b26b0ebaaa13bec7fac796ee0b8296676df6ee0b/developer-portfolio/website.svg" alt="" width="450px"/>
 </p>
@@ -25,20 +25,20 @@
 
 <br /><br />
 
-
+# Demo :movie_camera:
 ## View live demo [here](https://themrsrk.github.io/Personal-Portfolio/).
 
 <br />
 
 # Themes :art:
 
-![output!][output.png]
-<!-- <div style="display: flex; justify-content: space-between;">
-    <img src="/Users/shahrukhsiddiqui/eclipse/Personal-Portfolio/src/assets/images/output.png" width="48%" alt="">
-    <img src="/Users/shahrukhsiddiqui/eclipse/Personal-Portfolio/src/assets/images/output.png" width="48%" alt="">
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/themrsrk/Personal-Portfolio/issues/1#issuecomment-1087239384" width="48%" alt="">
+    <img src="https://github.com/themrsrk/Personal-Portfolio/issues/1#issuecomment-1087239384" width="48%" alt="">
 </div>
 <br />
-<br /> <br /> -->
+<br /> <br />
 
 # Installation :arrow_down:
 ### You will need to download Git and Node to run this project
