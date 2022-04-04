@@ -34,8 +34,8 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="Personal-Portfolio/src/assets/images/output.png" width="48%" alt="">
-    <img src="Personal-Portfolio/src/assets/images/output.png" width="48%" alt="">
+    <img src="/Users/shahrukhsiddiqui/eclipse/Personal-Portfolio/src/assets/images/output.png" width="48%" alt="">
+    <img src="/Users/shahrukhsiddiqui/eclipse/Personal-Portfolio/src/assets/images/output.png" width="48%" alt="">
 </div>
 <br />
 <br /> <br />
