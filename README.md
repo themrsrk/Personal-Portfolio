@@ -34,8 +34,8 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/themrsrk/Personal-Portfolio/issues/1#issuecomment-1087239384" width="48%" alt="">
-    <img src="https://github.com/themrsrk/Personal-Portfolio/issues/1#issuecomment-1087239384" width="48%" alt="">
+    <img src="https://user-images.githubusercontent.com/54312893/161500615-bb1a758a-4ed8-458b-8114-9c3192da88b1.png" width="48%" alt="">
+    <img src="https://user-images.githubusercontent.com/54312893/161500615-bb1a758a-4ed8-458b-8114-9c3192da88b1.png" width="48%" alt="">
 </div>
 <br />
 <br /> <br />
