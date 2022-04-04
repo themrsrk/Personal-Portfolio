@@ -26,9 +26,7 @@
 <br /><br />
 
 # Demo :movie_camera:
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://user-images.githubusercontent.com/54312893/161501877-310c8eab-67c9-4db9-a67f-07770c134db5.mp4" width="48%" alt="">
-</div>
+
 ## View live demo [here](https://themrsrk.github.io/Personal-Portfolio/).
 
 <br />
