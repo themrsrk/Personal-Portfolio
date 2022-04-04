@@ -32,13 +32,13 @@
 
 # Themes :art:
 
-
-<div style="display: flex; justify-content: space-between;">
+![output!][output.png]
+<!-- <div style="display: flex; justify-content: space-between;">
     <img src="/Users/shahrukhsiddiqui/eclipse/Personal-Portfolio/src/assets/images/output.png" width="48%" alt="">
     <img src="/Users/shahrukhsiddiqui/eclipse/Personal-Portfolio/src/assets/images/output.png" width="48%" alt="">
 </div>
 <br />
-<br /> <br />
+<br /> <br /> -->
 
 # Installation :arrow_down:
 ### You will need to download Git and Node to run this project
