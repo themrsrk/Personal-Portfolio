@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Shahrukh Siddiqui. I'm a Full DevOps Engineer & Full Stack Developer based in Karachi, Pakistan.",
+    description1: "My name's Shahrukh Siddiqui. I'm a DevOps Engineer & Full Stack Developer based in Karachi, Pakistan.",
     description2: `I have been working in tech-industry since previous year 2021. I have worked as a practicing DevOps. I'm well aware of Web-Server(Nginx, IIS), Reverse Proxy, Infrastructure Monitoring, Monitoring Network Activity with Grafana, Time-Series Database, InfluxDB and Telegraf Agent. \r\n
     
     I have also worked with multiple Operating Systems (Windows/MacOS/Linux Servers/Ubuntu Distros). I have also acquainted with knowledge about Networking, Security and Protocols (ICMP, SSH, FTP). 
